@@ -93,8 +93,10 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ![Upload Interface](./screenshots/upload_ui.png)  
 *Upload PDF or image invoices and view the extracted fields in real-time.*
+<img width="1204" height="416" alt="Screenshot 2025-07-25 181823" src="https://github.com/user-attachments/assets/e8376077-384f-4a38-adb9-f009b3a0c729" />
 
 ---
+<img width="1144" height="614" alt="Screenshot 2025-07-25 170514" src="https://github.com/user-attachments/assets/5ae2a75e-201e-47cc-8226-0b2b9b2d536c" />
 
 ## 🙌 Acknowledgements
 
